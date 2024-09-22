@@ -1,0 +1,23 @@
+.img{
+    width: 100%;
+}
+.ota{
+    display: flex;
+}
+.ogil1{
+    margin-right: 100px;
+    width: 340px;
+    height: 700px;
+}
+.ogil2{
+    margin-left: 50px;
+    width: 300px;
+    height: 800px;
+}
+.ogil3{
+    width: 200px;
+    height: 456px;
+}
+.section3{
+    display: flex;
+}
